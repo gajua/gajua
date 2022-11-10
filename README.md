@@ -2,7 +2,7 @@
 ### 동네 어리버리 MVP
 <div align="center">
 
-## 대표님 사랑합니다 ♥
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=font+awsome&size=27&duration=1000&pause=1200&color=6E0000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%EC%A5%AC%EB%85%80+front+Dev" alt="Typing SVG" /></a> 
 
 
