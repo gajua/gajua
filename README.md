@@ -6,9 +6,11 @@
 
 ### 세상 "세", 으뜸 "원" 이름값하겠습니다. 
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=font+awsome&size=27&duration=1000&pause=1200&color=6E0000&center=true&vCenter=true&multiline=true&width=500&height=100&lines=%EC%A5%AC%EB%85%80+front+Dev" alt="Typing SVG" /></a> 
 
 
+
+    
+    
 [![Jordan Badge](https://img.shields.io/badge/Gmail-cd5b58?style=flat-square&logo=Jordan&logoColor=white&link=mailto:sewon0325@gmail.com)](mailto:sewon0325@gmail.com)
 
 
