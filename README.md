@@ -4,7 +4,6 @@
 
 # 안녕하세요 김세원입니다.
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
