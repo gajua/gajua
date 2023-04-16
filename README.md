@@ -1,6 +1,7 @@
 
 ### 동네 어리버리 MVP🏆
-[🔗 노션 이력서](https://ethereal-comb-6a0.notion.site/Frontend-Developer-ffc1997bfb064444846dc876e7469e88)    [🔗 웹 이력서](https://gajua.github.io/resume/) 
+
+<!-- [🔗 노션 이력서](https://ethereal-comb-6a0.notion.site/Frontend-Developer-ffc1997bfb064444846dc876e7469e88)    [🔗 웹 이력서](https://gajua.github.io/resume/)  -->
 <div align="center">
 
 # 안녕하세요 김세원입니다.
